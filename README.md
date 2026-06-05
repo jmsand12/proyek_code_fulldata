@@ -1,0 +1,1 @@
+# proyek_code_fulldata
