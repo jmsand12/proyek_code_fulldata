@@ -1,6 +1,7 @@
-matplotlib==3.10.9
-numpy==2.4.6
-pandas==2.3.3
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.1.4
 pyspark==3.5.1
-shap==0.49.1
-streamlit==1.55.0
+shap==0.44.1
+streamlit==1.35.0
+scikit-learn==1.4.2
