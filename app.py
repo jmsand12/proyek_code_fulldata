@@ -3,8 +3,8 @@ import io
 import warnings
 warnings.filterwarnings("ignore")
 
-os.environ["PYSPARK_PYTHON"]        = "python"
-os.environ["PYSPARK_DRIVER_PYTHON"] = "python"
+os.environ["PYSPARK_PYTHON"]        = "python3"
+os.environ["PYSPARK_DRIVER_PYTHON"] = "python3"
 
 import streamlit as st
 import pandas as pd
